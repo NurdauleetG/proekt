@@ -1,0 +1,63 @@
+body{
+	.enter {
+		width: 1522px;
+		height: 32px;
+		background: grey;
+		display: flex;
+	}
+	.shift {
+		width: 1522px;
+		height: 33px;
+		background: white;
+	}
+	.tab {
+		width: 400px;
+		height: 230px;
+		background: grey;
+		margin-top: 90px;
+		
+	}
+	.ctrl {
+		width: 400px;
+		height: 230px;
+		background: grey;
+		margin-top: 50px;
+	}
+	.fn {
+		display: flex;
+
+	}
+	.alt {
+		background: beige;
+		width: 400px;
+		height: 230px;
+
+	}
+	.tab {
+		width: 400px;
+		height: 230px;
+		background: brown;
+		margin-top: 90px;
+	}
+	.black {
+		background: black;
+		width: 1522px;
+		height: 1000px;
+	}
+	.links {
+		color: white;
+		 font-size: 15px; 
+		  margin-right: 35px; 
+		  text-decoration: none;
+		  color: black ;
+
+	}
+	.block {
+		width: 1522px;
+		height: 700px;
+		background: white;
+	}
+
+
+	
+}
